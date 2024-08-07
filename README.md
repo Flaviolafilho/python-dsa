@@ -1,2 +1,3 @@
 # python-dsa
-Python Para Análise de Dados e Data Science (Com ChatGPT)
+Python Para Analise de Dados e Data Science (Com ChatGPT)
+TEste
